@@ -1,0 +1,36 @@
+{
+  "exchange": {
+    "pair_whitelist": [
+      "BTC/USDT",
+      "ETH/USDT",
+      "XRP/USDT",
+      "MATIC/USDT",
+      "DOGE/USDT",
+      "ADA/USDT",
+      "LTC/USDT",
+      "DOT/USDT",
+      "SOL/USDT",
+      "XVS/USDT",
+      "EOS/USDT",
+      "ETC/USDT",
+      "AAVE/USDT",
+      "LINK/USDT",
+      "SUSHI/USDT",
+      "VET/USDT",
+      "XLM/USDT",
+      "BCH/USDT",
+      "ONE/USDT",
+      "TRX/USDT",
+      "SXP/USDT",
+      "FIL/USDT",
+      "CAKE/USDT",
+      "SNX/USDT",
+      "CHZ/USDT",
+      "KSM/USDT",
+      "AVAX/USDT",
+      "THETA/USDT",
+      "UNI/USDT",
+      "YFI/USDT"
+    ]
+  }
+}
